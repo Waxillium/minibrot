@@ -1,0 +1,88 @@
+<component name="libraryTable">
+  <library name="lwjgl-release-3.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-assimp-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-bgfx-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-cuda-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-egl-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-glfw-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-jawt-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-jemalloc-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-libdivide-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-llvm-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-lmdb-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-lz4-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-meow-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-nanovg-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-nfd-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-nuklear-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-odbc-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-openal-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-opencl-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-opengl-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-opengles-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-openvr-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-opus-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-ovr-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-par-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-remotery-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-rpmalloc-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-sse-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-stb-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-tinyexr-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-tinyfd-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-tootle-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-vma-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-vulkan-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-xxhash-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-yoga-javadoc" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-zstd-javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-assimp-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-bgfx-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-cuda-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-egl-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-glfw-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-jawt-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-jemalloc-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-libdivide-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-llvm-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-lmdb-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-lz4-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-meow-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-nanovg-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-nfd-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-nuklear-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-odbc-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-openal-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-opencl-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-opengl-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-opengles-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-openvr-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-opus-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-ovr-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-par-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-remotery-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-rpmalloc-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-sse-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-stb-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-tinyexr-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-tinyfd-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-tootle-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-vma-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-vulkan-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-xxhash-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-yoga-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom/lwjgl-zstd-sources" />
+      <root url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Documents/lwjgl-release-3.2.1-custom" recursive="false" type="SOURCES" />
+  </library>
+</component>
