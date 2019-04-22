@@ -6,6 +6,7 @@ import org.lwjgl.opengl.GL;
 import org.lwjgl.system.MemoryStack;
 
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.nio.IntBuffer;
@@ -119,11 +120,13 @@ public class Window {
                 glfwSetWindowShouldClose(window, true); // We will detect this in the rendering loop
             if ( key == GLFW_KEY_A && action == GLFW_PRESS){
                 theme3 = 0;
-                theme2 = 1;
+                if(theme2 == 0) theme2 = 1;
+                else theme2 = 0;
             }
             if ( key == GLFW_KEY_S && action == GLFW_PRESS){
-                theme3 = 1;
                 theme2 = 0;
+                if(theme3 == 0) theme3 = 1;
+                else theme3 = 0;
             }
 
             if ( key == GLFW_KEY_ENTER && action == GLFW_RELEASE ) {
@@ -290,7 +293,8 @@ public class Window {
         StringBuilder vertexShaderSource = new StringBuilder();
         StringBuilder fragmentShaderSource = new StringBuilder();
         try{
-            BufferedReader reader = new BufferedReader(new FileReader("C:\\Users\\Raymond\\IdeaProjects\\LWJGLthinger\\src\\com\\company\\shader.vert"));
+            String filePath = new File("").getAbsolutePath();
+            BufferedReader reader = new BufferedReader(new FileReader(filePath + "\\src\\com\\company\\shader.vert"));
             String line;
             while((line = reader.readLine()) != null){
                 vertexShaderSource.append(line).append('\n');
@@ -302,7 +306,8 @@ public class Window {
             System.exit(1);
         }
         try{
-            BufferedReader reader = new BufferedReader(new FileReader("C:\\Users\\Raymond\\IdeaProjects\\LWJGLthinger\\src\\com\\company\\shader.frag"));
+            String filePath = new File("").getAbsolutePath();
+            BufferedReader reader = new BufferedReader(new FileReader(filePath + "\\src\\com\\company\\shader.frag"));
             String line;
             while((line = reader.readLine()) != null){
                 fragmentShaderSource.append(line).append('\n');
