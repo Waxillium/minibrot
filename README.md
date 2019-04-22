@@ -46,3 +46,5 @@ from.
 Same features from mandelbrot set apply to julia set.
 
 Enter does reset the same settings it does for the Mandelbrot set, but doesn't change the julia set itself.
+
+Escape: closes and exits the program.
